@@ -1,1 +1,3 @@
-Exercícios da disciplina Linguagem de programação I (C).
+Exercícios da disciplina Linguagem de programação I.
+Professor: Francisco Figueiredo Sant'anna
+Linguagem: C
