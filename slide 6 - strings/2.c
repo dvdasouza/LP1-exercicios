@@ -23,17 +23,15 @@ int main(){
 
     return 0;
 }
-
 int tamanho(char* str){
     int soma = 0;
 
-    for (int i = 0; str[soma] != '\0'; i++){ // \0 finaliza string
+    for (int i = 0; str[soma] != '\0'; i++){
         soma++;
     }
     return soma; // devolve a soma pra main
 }
 
-// Junta em destino as duas strings de origem (sobrescrevendo o conteúdo de destino, se houver)
 void concatena(char*d, char* o1, char* o2){
     int i, j;
 
